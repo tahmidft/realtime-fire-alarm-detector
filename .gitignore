@@ -6,3 +6,5 @@ detections.jsonl
 __pycache__/
 
 config.json
+fire_alarm_detector
+audio_capture
